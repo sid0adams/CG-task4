@@ -74,7 +74,7 @@
             // 
             // saveFileDialog
             // 
-            this.saveFileDialog.FileName = "*.obj | obj |*.* |all";
+            this.saveFileDialog.Filter = "*.obj | obj |*.* |all";
             // 
             // ExportBtn
             // 
